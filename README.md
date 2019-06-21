@@ -1,18 +1,6 @@
 # ![Logo](https://github.com/RivetChain/rivet-chain/blob/master/LOGO_30x30.png) RivetChain
 
-    The side Chain allows the Rivet Chain to move easily 
-    between the blockchain and the side Chain and allows new 
-    requirements to be validated on the side Chain. In the 
-    Rivet Chain Hub, the side Chain and the Rivet Chain are 
-    micro-clients of each other, and the RTSP is used to 
-    demonstrate movement between the Rivet Chain and the side 
-    Chain. The core mechanism for two-way links is in principle 
-    the same as that used by the Rivet Chain. 
-    Rivet Chain is currently working on a number of 
-    different strategies to spatialize the state of the 
-    blockchain to address the need for scalability. The goal of 
-    these efforts is to maintain the abstraction layer provided 
-    by the current virtual machine over the Shared state space. 
-    At present, a number of research work is underway.
+    Rivet Chain is a public blockchain architecture, which can solve the problem of streaming media transmission between public chain and side chain. It is a Byzantine fault-tolerant security consensus engine with high performance, consistent characteristics and the ability to prevent vandalism under strict bidirectional accountability. The consensus algorithm is very suitable for PoW + PoS proof mechanism under public block chain, through the use of link adaptation space, the content of the building is essentially the ultimate abstract base layer to achieve this: with a built-in Turing complete programming language block chain, allowed to write intelligent contracts and distributed application, for ownership and transaction format and state transition function to create your own rules.
+    It enables cross-chain interoperability between blockchains, USES decentralized storage and merckle trees, and trades only on critical chains, thus greatly reducing the congestion dilemma of the main chain network.
 
 RivetChain is an ETH relaying smart contract DApp. RivetChain allows RTC holders to use DApps based on Ethereum eco-system, written in Solidity.
